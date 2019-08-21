@@ -1,0 +1,2117 @@
+{ "type" : "Feature Collection",
+    { "features" : [
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["34.28","69.11"]
+                },
+                "properties" : {
+                    "name" : "Kabul", 
+                    "value" : "Afghanistan" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["41.18","19.49"]
+                },
+                "properties" : {
+                    "name" : "Tirane", 
+                    "value" : "Albania" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["36.42","3.08"]
+                },
+                "properties" : {
+                    "name" : "Algiers", 
+                    "value" : "Algeria" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-14.16","-170.4"]
+                },
+                "properties" : {
+                    "name" : "Pago Pago", 
+                    "value" : "American Samoa" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["42.31","1.32"]
+                },
+                "properties" : {
+                    "name" : "Andorra la Vella", 
+                    "value" : "Andorra" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-8.5","13.15"]
+                },
+                "properties" : {
+                    "name" : "Luanda", 
+                    "value" : "Angola" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["17.2","-61.48"]
+                },
+                "properties" : {
+                    "name" : "W. Indies", 
+                    "value" : "Antigua and Barbuda" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-36.3","-60"]
+                },
+                "properties" : {
+                    "name" : "Buenos Aires", 
+                    "value" : "Argentina" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["40.1","44.31"]
+                },
+                "properties" : {
+                    "name" : "Yerevan", 
+                    "value" : "Armenia" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["12.32","-70.02"]
+                },
+                "properties" : {
+                    "name" : "Oranjestad", 
+                    "value" : "Aruba" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-35.15","149"]
+                },
+                "properties" : {
+                    "name" : "Canberra", 
+                    "value" : "Australia" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.12","16.22"]
+                },
+                "properties" : {
+                    "name" : "Vienna", 
+                    "value" : "Austria" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["40.29","49.56"]
+                },
+                "properties" : {
+                    "name" : "Baku", 
+                    "value" : "Azerbaijan" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["25.05","-77.2"]
+                },
+                "properties" : {
+                    "name" : "Nassau", 
+                    "value" : "Bahamas" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["26.1","50.3"]
+                },
+                "properties" : {
+                    "name" : "Manama", 
+                    "value" : "Bahrain" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["23.43","90.26"]
+                },
+                "properties" : {
+                    "name" : "Dhaka", 
+                    "value" : "Bangladesh" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["13.05","-59.3"]
+                },
+                "properties" : {
+                    "name" : "Bridgetown", 
+                    "value" : "Barbados" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["53.52","27.3"]
+                },
+                "properties" : {
+                    "name" : "Minsk", 
+                    "value" : "Belarus" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["50.51","4.21"]
+                },
+                "properties" : {
+                    "name" : "Brussels", 
+                    "value" : "Belgium" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["17.18","-88.3"]
+                },
+                "properties" : {
+                    "name" : "Belmopan", 
+                    "value" : "Belize" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["27.31","89.45"]
+                },
+                "properties" : {
+                    "name" : "Thimphu", 
+                    "value" : "Bhutan" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-16.2","-68.1"]
+                },
+                "properties" : {
+                    "name" : "La Paz", 
+                    "value" : "Bolivia" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["43.52","18.26"]
+                },
+                "properties" : {
+                    "name" : "Sarajevo", 
+                    "value" : "Bosnia and Herzegovina" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-24.45","25.57"]
+                },
+                "properties" : {
+                    "name" : "Gaborone", 
+                    "value" : "Botswana" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-15.47","-47.55"]
+                },
+                "properties" : {
+                    "name" : "Brasilia", 
+                    "value" : "Brazil" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["18.27","-64.37"]
+                },
+                "properties" : {
+                    "name" : "Road Town", 
+                    "value" : "British Virgin Islands" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["4.52","115"]
+                },
+                "properties" : {
+                    "name" : "Bandar Seri Begawan", 
+                    "value" : "Brunei Darussalam" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["42.45","23.2"]
+                },
+                "properties" : {
+                    "name" : "Sofia", 
+                    "value" : "Bulgaria" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["12.15","-1.3"]
+                },
+                "properties" : {
+                    "name" : "Ouagadougou", 
+                    "value" : "Burkina Faso" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-3.16","29.18"]
+                },
+                "properties" : {
+                    "name" : "Bujumbura", 
+                    "value" : "Burundi" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["11.33","104.5"]
+                },
+                "properties" : {
+                    "name" : "Phnom Penh", 
+                    "value" : "Cambodia" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["3.5","11.35"]
+                },
+                "properties" : {
+                    "name" : "Yaounde", 
+                    "value" : "Cameroon" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-45.27","-75.42"]
+                },
+                "properties" : {
+                    "name" : "Ottawa", 
+                    "value" : "Canada" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["15.02","-23.34"]
+                },
+                "properties" : {
+                    "name" : "Praia", 
+                    "value" : "Cape Verde" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["19.2","-81.24"]
+                },
+                "properties" : {
+                    "name" : "George Town", 
+                    "value" : "Cayman Islands" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["4.23","18.35"]
+                },
+                "properties" : {
+                    "name" : "Bangui", 
+                    "value" : "Central African Republic" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["12.1","14.59"]
+                },
+                "properties" : {
+                    "name" : "N'Djamena", 
+                    "value" : "Chad" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-33.24","-70.4"]
+                },
+                "properties" : {
+                    "name" : "Santiago", 
+                    "value" : "Chile" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["39.55","116.2"]
+                },
+                "properties" : {
+                    "name" : "Beijing", 
+                    "value" : "China" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["4.34","-74"]
+                },
+                "properties" : {
+                    "name" : "Bogota", 
+                    "value" : "Colombia" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-11.4","43.16"]
+                },
+                "properties" : {
+                    "name" : "Moroni", 
+                    "value" : "Comros" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-4.09","15.12"]
+                },
+                "properties" : {
+                    "name" : "Brazzaville", 
+                    "value" : "Congo" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["9.55","-84.02"]
+                },
+                "properties" : {
+                    "name" : "San Jose", 
+                    "value" : "Costa Rica" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["6.49","-5.17"]
+                },
+                "properties" : {
+                    "name" : "Yamoussoukro", 
+                    "value" : "Cote d'Ivoire" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["45.5","15.58"]
+                },
+                "properties" : {
+                    "name" : "Zagreb", 
+                    "value" : "Croatia" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["23.08","-82.22"]
+                },
+                "properties" : {
+                    "name" : "Havana", 
+                    "value" : "Cuba" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["35.1","33.25"]
+                },
+                "properties" : {
+                    "name" : "Nicosia", 
+                    "value" : "Cyprus" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["50.05","14.22"]
+                },
+                "properties" : {
+                    "name" : "Prague", 
+                    "value" : "Czech Republic" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-4.2","15.15"]
+                },
+                "properties" : {
+                    "name" : "Kinshasa", 
+                    "value" : "Congo" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["55.41","12.34"]
+                },
+                "properties" : {
+                    "name" : "Copenhagen", 
+                    "value" : "Denmark" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["11.08","42.2"]
+                },
+                "properties" : {
+                    "name" : "Djibouti", 
+                    "value" : "Djibouti" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["15.2","-61.24"]
+                },
+                "properties" : {
+                    "name" : "Roseau", 
+                    "value" : "Dominica" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["18.3","-69.59"]
+                },
+                "properties" : {
+                    "name" : "Santo Domingo", 
+                    "value" : "Dominica Republic" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-8.29","125.3"]
+                },
+                "properties" : {
+                    "name" : "Dili", 
+                    "value" : "East Timor" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-0.15","-78.35"]
+                },
+                "properties" : {
+                    "name" : "Quito", 
+                    "value" : "Ecuador" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["30.01","31.14"]
+                },
+                "properties" : {
+                    "name" : "Cairo", 
+                    "value" : "Egypt" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["13.4","-89.1"]
+                },
+                "properties" : {
+                    "name" : "San Salvador", 
+                    "value" : "El Salvador" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["3.45","8.5"]
+                },
+                "properties" : {
+                    "name" : "Malabo", 
+                    "value" : "Equatorial Guinea" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["15.19","38.55"]
+                },
+                "properties" : {
+                    "name" : "Asmara", 
+                    "value" : "Eritrea" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["59.22","24.48"]
+                },
+                "properties" : {
+                    "name" : "Tallinn", 
+                    "value" : "Estonia" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["9.02","38.42"]
+                },
+                "properties" : {
+                    "name" : "Addis Ababa", 
+                    "value" : "Ethiopia" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-51.4","-59.51"]
+                },
+                "properties" : {
+                    "name" : "Stanley", 
+                    "value" : "Falkland Islands" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["62.05","-6.56"]
+                },
+                "properties" : {
+                    "name" : "Torshavn", 
+                    "value" : "Faroe Islands" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-18.06","178.3"]
+                },
+                "properties" : {
+                    "name" : "Suva", 
+                    "value" : "Fiji" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["60.15","25.03"]
+                },
+                "properties" : {
+                    "name" : "Helsinki", 
+                    "value" : "Finland" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.5","2.2"]
+                },
+                "properties" : {
+                    "name" : "Paris", 
+                    "value" : "France" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["5.05","-52.18"]
+                },
+                "properties" : {
+                    "name" : "Cayenne", 
+                    "value" : "French Guiana" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-17.32","-149.3"]
+                },
+                "properties" : {
+                    "name" : "Papeete", 
+                    "value" : "French Polynesia" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["0.25","9.26"]
+                },
+                "properties" : {
+                    "name" : "Libreville", 
+                    "value" : "Gabon" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["13.28","-16.4"]
+                },
+                "properties" : {
+                    "name" : "Banjul", 
+                    "value" : "Gambia" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["41.43","44.5"]
+                },
+                "properties" : {
+                    "name" : "T'bilisi", 
+                    "value" : "Georgia" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["52.3","13.25"]
+                },
+                "properties" : {
+                    "name" : "Berlin", 
+                    "value" : "Germany" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["5.35","-0.06"]
+                },
+                "properties" : {
+                    "name" : "Accra", 
+                    "value" : "Ghana" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["37.58","23.46"]
+                },
+                "properties" : {
+                    "name" : "Athens", 
+                    "value" : "Greece" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["64.1","-51.35"]
+                },
+                "properties" : {
+                    "name" : "Nuuk", 
+                    "value" : "Greenland" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["16","-61.44"]
+                },
+                "properties" : {
+                    "name" : "Basse-Terre", 
+                    "value" : "Guadeloupe" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["14.4","-90.22"]
+                },
+                "properties" : {
+                    "name" : "Guatemala", 
+                    "value" : "Guatemala" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.26","-2.33"]
+                },
+                "properties" : {
+                    "name" : "St. Peter Port", 
+                    "value" : "Guernsey" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["9.29","-13.49"]
+                },
+                "properties" : {
+                    "name" : "Conakry", 
+                    "value" : "Guinea" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["11.45","-15.45"]
+                },
+                "properties" : {
+                    "name" : "Bissau", 
+                    "value" : "Guinea-Bissau" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["6.5","-58.12"]
+                },
+                "properties" : {
+                    "name" : "Georgetown", 
+                    "value" : "Guyana" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["18.4","-72.2"]
+                },
+                "properties" : {
+                    "name" : "Port-au-Prince", 
+                    "value" : "Haiti" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["14.05","-87.14"]
+                },
+                "properties" : {
+                    "name" : "Tegucigalpa", 
+                    "value" : "Honduras" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["47.29","19.05"]
+                },
+                "properties" : {
+                    "name" : "Budapest", 
+                    "value" : "Hungary" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["64.1","-21.57"]
+                },
+                "properties" : {
+                    "name" : "Reykjavik", 
+                    "value" : "Iceland" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["28.37","77.13"]
+                },
+                "properties" : {
+                    "name" : "New Delhi", 
+                    "value" : "India" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-6.09","106.4"]
+                },
+                "properties" : {
+                    "name" : "Jakarta", 
+                    "value" : "Indonesia" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["35.44","51.3"]
+                },
+                "properties" : {
+                    "name" : "Tehran", 
+                    "value" : "Iran" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["33.2","44.3"]
+                },
+                "properties" : {
+                    "name" : "Baghdad", 
+                    "value" : "Iraq" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["53.21","-6.15"]
+                },
+                "properties" : {
+                    "name" : "Dublin", 
+                    "value" : "Ireland" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["31.71","35.1"]
+                },
+                "properties" : {
+                    "name" : "Jerusalem", 
+                    "value" : "Israel" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["41.54","12.29"]
+                },
+                "properties" : {
+                    "name" : "Rome", 
+                    "value" : "Italy" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["18","-76.5"]
+                },
+                "properties" : {
+                    "name" : "Kingston", 
+                    "value" : "Jamaica" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["31.57","35.52"]
+                },
+                "properties" : {
+                    "name" : "Amman", 
+                    "value" : "Jordan" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["51.1","71.3"]
+                },
+                "properties" : {
+                    "name" : "Astana", 
+                    "value" : "Kazakhstan" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-1.17","36.48"]
+                },
+                "properties" : {
+                    "name" : "Nairobi", 
+                    "value" : "Kenya" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["1.3","173"]
+                },
+                "properties" : {
+                    "name" : "Tarawa", 
+                    "value" : "Kiribati" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["29.3","48"]
+                },
+                "properties" : {
+                    "name" : "Kuwait", 
+                    "value" : "Kuwait" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["42.54","74.46"]
+                },
+                "properties" : {
+                    "name" : "Bishkek", 
+                    "value" : "Kyrgyzstan" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["56.53","24.08"]
+                },
+                "properties" : {
+                    "name" : "Riga", 
+                    "value" : "Latvia" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["33.53","35.31"]
+                },
+                "properties" : {
+                    "name" : "Beirut", 
+                    "value" : "Lebanon" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-29.18","27.3"]
+                },
+                "properties" : {
+                    "name" : "Maseru", 
+                    "value" : "Lesotho" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["6.18","-10.47"]
+                },
+                "properties" : {
+                    "name" : "Monrovia", 
+                    "value" : "Liberia" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["47.08","9.31"]
+                },
+                "properties" : {
+                    "name" : "Vaduz", 
+                    "value" : "Liechtenstein" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["54.38","25.19"]
+                },
+                "properties" : {
+                    "name" : "Vilnius", 
+                    "value" : "Lithuania" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["49.37","6.09"]
+                },
+                "properties" : {
+                    "name" : "Luxembourg", 
+                    "value" : "Luxembourg" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["22.12","113.3"]
+                },
+                "properties" : {
+                    "name" : "Macau", 
+                    "value" : "Macao, China" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-18.55","47.31"]
+                },
+                "properties" : {
+                    "name" : "Antananarivo", 
+                    "value" : "Madagascar" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-14","33.48"]
+                },
+                "properties" : {
+                    "name" : "Lilongwe", 
+                    "value" : "Malawi" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["3.09","101.4"]
+                },
+                "properties" : {
+                    "name" : "Kuala Lumpur", 
+                    "value" : "Malaysia" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["4","73.28"]
+                },
+                "properties" : {
+                    "name" : "Male", 
+                    "value" : "Maldives" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["12.34","-7.55"]
+                },
+                "properties" : {
+                    "name" : "Bamako", 
+                    "value" : "Mali" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["35.54","14.31"]
+                },
+                "properties" : {
+                    "name" : "Valletta", 
+                    "value" : "Malta" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["14.36","-61.02"]
+                },
+                "properties" : {
+                    "name" : "Fort-de-France", 
+                    "value" : "Martinique" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-20.1","57.3"]
+                },
+                "properties" : {
+                    "name" : "Nouakchott", 
+                    "value" : "Mauritania" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-12.48","45.14"]
+                },
+                "properties" : {
+                    "name" : "Mamoudzou", 
+                    "value" : "Mayotte" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["19.2","-99.1"]
+                },
+                "properties" : {
+                    "name" : "Mexico", 
+                    "value" : "Mexico" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["6.55","158"]
+                },
+                "properties" : {
+                    "name" : "Palikir", 
+                    "value" : "Micronesia" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["47.02","28.5"]
+                },
+                "properties" : {
+                    "name" : "Chisinau", 
+                    "value" : "Moldova" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-25.58","32.32"]
+                },
+                "properties" : {
+                    "name" : "Maputo", 
+                    "value" : "Mozambique" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["16.45","96.2"]
+                },
+                "properties" : {
+                    "name" : "Yangon", 
+                    "value" : "Myanmar" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-22.35","17.04"]
+                },
+                "properties" : {
+                    "name" : "Windhoek", 
+                    "value" : "Namibia" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["27.45","85.2"]
+                },
+                "properties" : {
+                    "name" : "Kathmandu", 
+                    "value" : "Nepal" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["52.23","4.54"]
+                },
+                "properties" : {
+                    "name" : "Amsterdam", 
+                    "value" : "Netherlands" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["12.05","-69"]
+                },
+                "properties" : {
+                    "name" : "Willemstad", 
+                    "value" : "Netherlands Antilles" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-22.17","166.3"]
+                },
+                "properties" : {
+                    "name" : "Noumea", 
+                    "value" : "New Caledonia" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-41.19","174.4"]
+                },
+                "properties" : {
+                    "name" : "Wellington", 
+                    "value" : "New Zealand" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["12.06","-86.2"]
+                },
+                "properties" : {
+                    "name" : "Managua", 
+                    "value" : "Nicaragua" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["13.27","2.06"]
+                },
+                "properties" : {
+                    "name" : "Niamey", 
+                    "value" : "Niger" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["9.05","7.32"]
+                },
+                "properties" : {
+                    "name" : "Abuja", 
+                    "value" : "Nigeria" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-45.2","168.4"]
+                },
+                "properties" : {
+                    "name" : "Kingston", 
+                    "value" : "Norfolk Island" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["15.12","145.4"]
+                },
+                "properties" : {
+                    "name" : "Saipan", 
+                    "value" : "Northern Mariana Islands" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["59.55","10.45"]
+                },
+                "properties" : {
+                    "name" : "Oslo", 
+                    "value" : "Norway" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["23.37","58.36"]
+                },
+                "properties" : {
+                    "name" : "Masqat", 
+                    "value" : "Oman" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["33.4","73.1"]
+                },
+                "properties" : {
+                    "name" : "Islamabad", 
+                    "value" : "Pakistan" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["7.2","134.2"]
+                },
+                "properties" : {
+                    "name" : "Koror", 
+                    "value" : "Palau" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["9","-79.25"]
+                },
+                "properties" : {
+                    "name" : "Panama", 
+                    "value" : "Panama" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-9.24","147"]
+                },
+                "properties" : {
+                    "name" : "Port Moresby", 
+                    "value" : "Papua New Guinea" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-25.1","-57.3"]
+                },
+                "properties" : {
+                    "name" : "Asuncion", 
+                    "value" : "Paraguay" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-12","-77"]
+                },
+                "properties" : {
+                    "name" : "Lima", 
+                    "value" : "Peru" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["14.4","121"]
+                },
+                "properties" : {
+                    "name" : "Manila", 
+                    "value" : "Philippines" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["52.13","21"]
+                },
+                "properties" : {
+                    "name" : "Warsaw", 
+                    "value" : "Poland" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["38.42","-9.1"]
+                },
+                "properties" : {
+                    "name" : "Lisbon", 
+                    "value" : "Portugal" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["18.28","-66.07"]
+                },
+                "properties" : {
+                    "name" : "San Juan", 
+                    "value" : "Puerto Rico" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["25.15","51.35"]
+                },
+                "properties" : {
+                    "name" : "Doha", 
+                    "value" : "Qatar" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["37.31","126.5"]
+                },
+                "properties" : {
+                    "name" : "Seoul", 
+                    "value" : "Korea" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["44.27","26.1"]
+                },
+                "properties" : {
+                    "name" : "Bucuresti", 
+                    "value" : "Romania" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["55.45","37.35"]
+                },
+                "properties" : {
+                    "name" : "Moskva", 
+                    "value" : "Russian Federation" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-1.59","30.04"]
+                },
+                "properties" : {
+                    "name" : "Kigali", 
+                    "value" : "Rawanda" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["17.17","-62.43"]
+                },
+                "properties" : {
+                    "name" : "Basseterre", 
+                    "value" : "Saint Kitts and Nevis" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["14.02","-60.58"]
+                },
+                "properties" : {
+                    "name" : "Castries", 
+                    "value" : "Saint Lucia" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.46","-56.12"]
+                },
+                "properties" : {
+                    "name" : "Saint-Pierre", 
+                    "value" : "Saint Pierre and Miquelon" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-13.5","-171.5"]
+                },
+                "properties" : {
+                    "name" : "Apia", 
+                    "value" : "Samoa" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["43.55","12.3"]
+                },
+                "properties" : {
+                    "name" : "San Marino", 
+                    "value" : "San Marino" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["0.1","6.39"]
+                },
+                "properties" : {
+                    "name" : "Sao Tome", 
+                    "value" : "Sao Tome and Principe" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["24.41","46.42"]
+                },
+                "properties" : {
+                    "name" : "Riyadh", 
+                    "value" : "Saudi Arabia" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["14.34","-17.29"]
+                },
+                "properties" : {
+                    "name" : "Dakar", 
+                    "value" : "Senegal" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["8.3","-13.17"]
+                },
+                "properties" : {
+                    "name" : "Freetown", 
+                    "value" : "Sierra Leone" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["48.1","17.07"]
+                },
+                "properties" : {
+                    "name" : "Bratislava", 
+                    "value" : "Slovakia" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.04","14.33"]
+                },
+                "properties" : {
+                    "name" : "Ljubljana", 
+                    "value" : "Slovenia" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-9.27","159.5"]
+                },
+                "properties" : {
+                    "name" : "Honiara", 
+                    "value" : "Solomon Islands" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["2.02","45.25"]
+                },
+                "properties" : {
+                    "name" : "Mogadishu", 
+                    "value" : "Somalia" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-25.44","28.12"]
+                },
+                "properties" : {
+                    "name" : "Pretoria", 
+                    "value" : "South Africa" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["40.25","-3.45"]
+                },
+                "properties" : {
+                    "name" : "Madrid", 
+                    "value" : "Spain" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["15.31","32.35"]
+                },
+                "properties" : {
+                    "name" : "Khartoum", 
+                    "value" : "Sudan" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["5.5","-55.1"]
+                },
+                "properties" : {
+                    "name" : "Paramaribo", 
+                    "value" : "Suriname" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-26.18","31.06"]
+                },
+                "properties" : {
+                    "name" : "Mbabane", 
+                    "value" : "Swaziland" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["59.2","18.03"]
+                },
+                "properties" : {
+                    "name" : "Stockholm", 
+                    "value" : "Sweden" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["46.57","7.28"]
+                },
+                "properties" : {
+                    "name" : "Bern", 
+                    "value" : "Switzerland" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["33.3","36.18"]
+                },
+                "properties" : {
+                    "name" : "Damascus", 
+                    "value" : "Syrian Arab Republic" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["38.33","68.48"]
+                },
+                "properties" : {
+                    "name" : "Dushanbe", 
+                    "value" : "Tajikistan" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["13.45","100.3"]
+                },
+                "properties" : {
+                    "name" : "Bangkok", 
+                    "value" : "Thailand" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["6.09","1.2"]
+                },
+                "properties" : {
+                    "name" : "Lome", 
+                    "value" : "Togo" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-21.1","-174"]
+                },
+                "properties" : {
+                    "name" : "Nuku'alofa", 
+                    "value" : "Tonga" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["36.5","10.11"]
+                },
+                "properties" : {
+                    "name" : "Tunis", 
+                    "value" : "Tunisia" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["39.57","32.54"]
+                },
+                "properties" : {
+                    "name" : "Ankara", 
+                    "value" : "Turkey" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["38","57.5"]
+                },
+                "properties" : {
+                    "name" : "Ashgabat", 
+                    "value" : "Turkmenistan" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-8.31","179.1"]
+                },
+                "properties" : {
+                    "name" : "Funafuti", 
+                    "value" : "Tuvalu" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["0.2","32.3"]
+                },
+                "properties" : {
+                    "name" : "Kampala", 
+                    "value" : "Uganda" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["50.3","30.28"]
+                },
+                "properties" : {
+                    "name" : "Kiev", 
+                    "value" : "Ukraine" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["24.28","54.22"]
+                },
+                "properties" : {
+                    "name" : "Abu Dhabi", 
+                    "value" : "United Arab Emirates" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["51.36","-0.05"]
+                },
+                "properties" : {
+                    "name" : "London", 
+                    "value" : "United Kingdom" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-6.08","35.45"]
+                },
+                "properties" : {
+                    "name" : "Dodoma", 
+                    "value" : "Tanzania" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["39.91","-77.02"]
+                },
+                "properties" : {
+                    "name" : "Washington DC", 
+                    "value" : "United States of America" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-34.5","-56.11"]
+                },
+                "properties" : {
+                    "name" : "Montevideo", 
+                    "value" : "Uruguay" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["41.2","69.1"]
+                },
+                "properties" : {
+                    "name" : "Tashkent", 
+                    "value" : "Uzbekistan" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-17.45","168.1"]
+                },
+                "properties" : {
+                    "name" : "Port-Vila", 
+                    "value" : "Vanuatu" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["10.3","-66.55"]
+                },
+                "properties" : {
+                    "name" : "Caracas", 
+                    "value" : "Venezuela" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["21.05","105.5"]
+                },
+                "properties" : {
+                    "name" : "Hanoi", 
+                    "value" : "Viet Nam" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["44.5","20.37"]
+                },
+                "properties" : {
+                    "name" : "Belgrade", 
+                    "value" : "Yugoslavia" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-15.28","28.16"]
+                },
+                "properties" : {
+                    "name" : "Lusaka", 
+                    "value" : "Zambia" 
+                }
+            },
+            {   "type" : "Feature",
+                "id" : 0,
+                "geometry" : {
+                    "type" : "Point",
+                    "coordinates" : ["-17.43","31.02"]
+                },
+                "properties" : {
+                    "name" : "Harare", 
+                    "value" : "Zimbabwe" 
+                }
+            }
+        ]
+    }
+}

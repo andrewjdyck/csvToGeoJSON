@@ -1,0 +1,29 @@
+{ "type" : "Feature Collection",
+    { "features" : [
+            {   "type" : "Feature",
+                   "id" : 4,
+                    "geometry" : {
+                        "type" : "Point",
+                        "coordinates" : ["65.216","33.677"]},
+                        "properties" : { "name" : "Afghanistan", "value" : "25067407" }
+                    }
+            },
+            {   "type" : "Feature",
+                   "id" : 8,
+                    "geometry" : {
+                        "type" : "Point",
+                        "coordinates" : ["20.068","41.143"]},
+                        "properties" : { "name" : "Albania", "value" : "3153731" }
+                    }
+            },
+            {   "type" : "Feature",
+                   "id" : 894,
+                    "geometry" : {
+                        "type" : "Point",
+                        "coordinates" : ["26.32","-14.614"]},
+                        "properties" : { "name" : "Zambia", "value" : "11478317" }
+                    }
+            }
+        ]
+    }
+}
